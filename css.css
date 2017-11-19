@@ -14,37 +14,29 @@ html,body{
   overflow: auto;
 }
 
-.wrapper::before{
-  
-}
 
 p{
-  
   font-size:16px;
   margin:10px;
   font-family: "Arial", Helvetica, sans-serif;
-  
 }
 
 #firstline,#secondline{
-
   color:white;
   display:inline;
   float:right;
   clear:right;
 }
+
 #firstline{
   margin:0 8px 0 0;
   font-size:35px;
-  
 }
 
 #secondline{
-  
   margin:0 8px 0 0;
   font-size:15px;
 }
-
 
 .display{
   border-radius:10px;
@@ -76,11 +68,12 @@ button:active {
   margin-left:0px;
   width:60px;
   height:85px;
-  
 }
+
 .normal{
    width:60px;
 }
+
 .larger{
   width:130px;
 }
