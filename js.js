@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  
 var firstLine = '';
 var secondLine = '';
 var result = 0;
@@ -75,7 +76,6 @@ $('.number').on('click',function(){
      checkSpace();
     return;
    }
-  
   
 })
 
