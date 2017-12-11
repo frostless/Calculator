@@ -1,84 +1,83 @@
-html,body{
-  background-color:#dfe0db;
+html, body {
+    background-color: #dfe0db;
 }
 
-.wrapper{
-  padding:5px;
-  width:296px;
-  height:395px;
-  margin:10% auto;
-  background-color:#afb29e;
-  box-shadow: 10px 10px 5px #888888;
-  border-radius:15px;
-  border-style: double;
-  overflow: auto;
+.wrapper {
+    padding: 5px;
+    width: 296px;
+    height: 395px;
+    margin: 10% auto;
+    background-color: #afb29e;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 15px;
+    border-style: double;
+    overflow: auto;
 }
 
-p{
-  font-size:16px;
-  margin:10px;
-  font-family: "Arial", Helvetica, sans-serif;
+p {
+    font-size: 16px;
+    margin: 10px;
+    font-family: "Arial", Helvetica, sans-serif;
 }
 
-#firstline,#secondline{
-  color:white;
-  display:inline;
-  float:right;
-  clear:right;
+#firstline, #secondline {
+    color: white;
+    display: inline;
+    float: right;
+    clear: right;
 }
 
-#firstline{
-  margin:0 8px 0 0;
-  font-size:35px;
+#firstline {
+    margin: 0 8px 0 0;
+    font-size: 35px;
 }
 
-#secondline{
-  margin:0 8px 0 0;
-  font-size:15px;
+#secondline {
+    margin: 0 8px 0 0;
+    font-size: 15px;
 }
 
-.display{
-  border-radius:10px;
-  width:250px;
-  height:80px;
-  margin:10px 0 10px 15px;
-  background-color:#bad3d8;
-  border-color:#cedadb;
-  border-style: double;
+.display {
+    border-radius: 10px;
+    width: 250px;
+    height: 80px;
+    margin: 10px 0 10px 15px;
+    background-color: #bad3d8;
+    border-color: #cedadb;
+    border-style: double;
 }
 
-button{
-  height:37px;
-  margin:5px;
-  float:left;
-  color:white;
-  box-shadow: 0px 3px 1px black;
-  background-color:#48493d;
-  border-color:#48493d;
-  outline: none;
+button {
+    height: 37px;
+    margin: 5px;
+    float: left;
+    color: white;
+    box-shadow: 0px 3px 1px black;
+    background-color: #48493d;
+    border-color: #48493d;
+    outline: none;
 }
 
 button:active {
-  transform: translateY(2px);
+    transform: translateY(2px);
 }
 
-.longer{
-  float:right;
-  margin-left:0px;
-  width:60px;
-  height:85px;
+.longer {
+    float: right;
+    margin-left: 0px;
+    width: 60px;
+    height: 85px;
 }
 
-.normal{
-   width:60px;
+.normal {
+    width: 60px;
 }
 
-.larger{
-  width:130px;
+.larger {
+    width: 130px;
 }
 
-#AC,#CE{
-  background-color:#0f0d33;
-  border-color:#0f0d33;
-  
+#AC, #CE {
+    background-color: #0f0d33;
+    border-color: #0f0d33;
 }
